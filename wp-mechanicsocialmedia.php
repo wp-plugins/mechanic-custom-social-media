@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Mechanic Custom Social Media
-Plugin URI: http://balimechanicweb.net/24-products/wordpress/plugins/46-mechanic-custom-social-media
+Plugin URI: http://www.adityasubawa.com/wordpress
 Description: Mechanic Custom Social Media is a widgets which will display your social media page on WordPress.
-Version: 1.0
+Version: 1.1
 Author: Aditya Subawa
 Author URI: http://www.adityasubawa.com
 */

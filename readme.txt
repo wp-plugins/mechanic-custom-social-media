@@ -5,7 +5,7 @@ Donate link: http://www.adityasubawa.com
 Tags: social media, social networking, custom social media icon, social media external links, social media shourcut
 Requires at least: 3.2
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Mechanic Custom Social Media is a widgets which will display your social media page on WordPress.  
 
@@ -39,9 +39,9 @@ you must open the file `wp-mechanicsocialmedia.php` plugins on the `wp-content/p
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 
-Plug-in is now compatible upto wordpress version 3.4.
+Plug-in is now compatible upto wordpress version 3.5.1
 
 == Credits ==
 
